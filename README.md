@@ -1,11 +1,17 @@
 # TodoList-Using-MicroService-Architecture
 Technologies Used:
 
+Spring Boot: For developing the microservices
+
 Docker: For containerizing each microservice and creating a consistent development environment.
+
 Kubernetes: For orchestrating the microservices and managing scalability.
+
 CI/CD System (e.g., Jenkins, GitLab CI/CD, or Travis CI): For automating the build, test, and deployment process.
+
 TDD: For implementing unit tests and integration tests to ensure the functionality of each microservice.
-Programming Language: Choose a language you're comfortable with (e.g., Java, Python, Node.js, Go).
+
+Programming Language:Java.
 
 Project Steps:
 
